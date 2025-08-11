@@ -41,7 +41,7 @@ cat <<EOF> index.html
 > </html>
 > EOF
 ```
-Copy index.html file and create a Dockerfile 
+Use Copy instruction inside dockerfile for copying index.html into /usr/local/apache2/htdocs/
 
 ```sh
 cat <<EOF>Dockerfile
