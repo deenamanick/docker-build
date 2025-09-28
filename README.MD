@@ -31,7 +31,7 @@ Create index.html file
 ```sh
 
 cat <<EOF> index.html
-> <html>
+<html>
 > <head>
 > <title>Welcome to my excellent blog</title></head>
 > <body bgcolor=blue>
