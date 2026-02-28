@@ -31,15 +31,15 @@ Create index.html file
 ```sh
 
 cat <<EOF> index.html
-> <html>
-> <head>
-> <title>Welcome to my excellent blog</title></head>
-> <body bgcolor=blue>
-> <h1>Welcome to my blog</h1>
-> <h2>Jeeviacademy</h2>
-> </body>
-> </html>
-> EOF
+<html>
+<head>
+<title>Welcome to my excellent blog</title></head>
+<body bgcolor=blue>
+<h1>Welcome to my blog</h1>
+<h2>Jeeviacademy</h2>
+</body>
+</html>
+ EOF
 ```
 Copy index.html file and create a Dockerfile 
 
